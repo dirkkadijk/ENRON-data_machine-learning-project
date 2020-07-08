@@ -16,7 +16,7 @@ Project work done as part of the Machine Learning part of the Udacity's  Data An
 ## 1. Installation
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. 
-For the course a range of sklearn modules are used.
+For the course a range of Scikit-Learn (`sklearn`) modules are used, which is one of the most popular machine learning libraries for Python .
 
 The code is in Jupyter Lab notebooks, and they included modules which loads supporting .py files. The code should run with no issues using Python versions 3.7.
 
