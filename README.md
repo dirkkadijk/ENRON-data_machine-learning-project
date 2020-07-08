@@ -35,9 +35,6 @@ The data explored is the [Enron Corpus](https://en.wikipedia.org/wiki/Enron_Corp
 Running the `startup.py` file present in folder `/tools/' of this repository will automatically download the tarred and gzipped dataset and extract it for usage.  
 Enron Email Dataset can be downloaded from : https://www.cs.cmu.edu/~enron/.  And it is the __May 7, 2015 Version of dataset__.
 
-The email and finance data is combined into a single dataset, which is explored in this project. 
-Note: For your convenience the data is already available in the ../tools/maildir/ folder.
-
 This aggregated _Enron email + financial dataset_ is stored in a dictionary as a _pickle file_, which is a handy way to store and load python objects directly. 
 Use ```datasets_questions/explore_enron_data.py``` to load the dataset.
 
